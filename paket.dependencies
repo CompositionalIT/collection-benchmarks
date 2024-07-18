@@ -1,0 +1,6 @@
+source https://api.nuget.org/v3/index.json
+framework: net8.0
+storage: none
+nuget BenchmarkDotNet
+nuget FSharp.Core
+nuget FsToolkit.ErrorHandling
